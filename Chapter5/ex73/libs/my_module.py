@@ -12,14 +12,14 @@ def giai_pt_bac2(hsa, hsb, hsc):
         elif b == 0 and c != 0:
             return "No solutions"
         else:
-            x = -c / b
+            x = round((-c / b),2)
             return f"Solution x={x}"
     else:
         delta = b ** 2 - 4 * a * c
         if delta < 0:
             return "No solutions"
         elif delta == 0:
-            x = -b / (2 * a)
+            x = round((-b / (2 * a)),2)
             return f"Double solutions x1=x2={x}"
         else:
             x1 = round(((-b - sqrt(delta)) / (2 * a)),2)
