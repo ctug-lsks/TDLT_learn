@@ -1,0 +1,10 @@
+x=int(input("Enter x:"))
+n=int(input("Enter n:"))
+M=1
+S=0
+i=1
+while i<=n:
+    M=M*i
+    S=S+(pow(x,i)/M)
+    i+=1
+print(f"S{x,n}={S}")
