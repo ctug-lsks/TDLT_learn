@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\UEL\Namba\Ky_1_Nam_3\TDLT (E)\TalentK24TDLT\Chapter5\bmi_project\ui\MainWindow.ui'
+# Form implementation generated from reading ui file 'D:\UEL\Namba\Ky_1_Nam_3\TDLT (E)\TalentK24TDLT\Chapter5\bmi_project\ui\BMIMainWindow.ui'
 #
 # Created by: PyQt6 UI code generator 6.11.0
 #
