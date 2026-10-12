@@ -1,6 +1,6 @@
 from PyQt6.QtWidgets import QMainWindow, QMessageBox
 
-from Chapter7.ui.LoginMainWindow import Ui_MainWindow
+from Chapter7.ui.Login.LoginMainWindow import Ui_MainWindow
 from Chapter7.ui.MainSystemMainWindowEx import MainSystemMainWindowEx
 
 

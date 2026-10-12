@@ -2,7 +2,7 @@ import sys
 
 from PyQt6.QtWidgets import QApplication, QMainWindow
 
-from Chapter7.ui.LoginMainWindowEx import LoginMainWindowEx
+from Chapter7.ui.Login.LoginMainWindowEx import LoginMainWindowEx
 
 app=QApplication(sys.argv)
 myui=LoginMainWindowEx()

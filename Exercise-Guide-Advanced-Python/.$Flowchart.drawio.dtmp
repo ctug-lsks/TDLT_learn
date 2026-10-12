@@ -1,0 +1,47 @@
+<mxfile host="Electron" pages="2">
+  <diagram name="Ex1" id="zHd2qH1XCkD78J4GQDLj">
+    <mxGraphModel dx="1030" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tg2u17K7jadOljaij-6n-3" edge="1" parent="1" source="tg2u17K7jadOljaij-6n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tg2u17K7jadOljaij-6n-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-5" edge="1" parent="1" source="tg2u17K7jadOljaij-6n-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tg2u17K7jadOljaij-6n-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="noA, noL, noC&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-7" edge="1" parent="1" source="tg2u17K7jadOljaij-6n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tg2u17K7jadOljaij-6n-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-4" parent="1" style="whiteSpace=wrap;html=1;" value="sum = 0&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;sum += noA*&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot; style=&quot;color: rgb(23, 80, 235);&quot;&gt;2500 &lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;sum += noL*&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot; style=&quot;color: rgb(23, 80, 235);&quot;&gt;3000 &lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;sum += noC*&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot; style=&quot;color: rgb(23, 80, 235);&quot;&gt;3000&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="365" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-8" edge="1" parent="1" source="tg2u17K7jadOljaij-6n-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tg2u17K7jadOljaij-6n-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="sum" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="tg2u17K7jadOljaij-6n-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+          <mxGeometry height="80" width="120" x="365" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="c025P652C5ZJN_B57oKt" name="Ex2">
+    <mxGraphModel dx="1030" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

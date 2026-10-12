@@ -1,4 +1,4 @@
-# Form implementation generated from reading ui file 'D:\UEL\Namba\Ky_1_Nam_3\TDLT\TalentK24TDLT\Chapter7\ui\LoginMainWindow.ui'
+# Form implementation generated from reading ui file 'D:\UEL\Namba\Ky_1_Nam_3\TDLT\TalentK24TDLT\Chapter7\ui\Login\LoginMainWindow.ui'
 #
 # Created by: PyQt6 UI code generator 6.11.0
 #
@@ -18,7 +18,7 @@ class Ui_MainWindow(object):
         self.label = QtWidgets.QLabel(parent=self.centralwidget)
         self.label.setGeometry(QtCore.QRect(30, 60, 291, 311))
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("D:\\UEL\\Namba\\Ky_1_Nam_3\\TDLT\\TalentK24TDLT\\Chapter7\\ui\\../images/ic_admin.png"))
+        self.label.setPixmap(QtGui.QPixmap("D:\\UEL\\Namba\\Ky_1_Nam_3\\TDLT\\TalentK24TDLT\\Chapter7\\ui\\Login\\../../images/ic_admin.png"))
         self.label.setObjectName("label")
         self.label_2 = QtWidgets.QLabel(parent=self.centralwidget)
         self.label_2.setGeometry(QtCore.QRect(380, 60, 251, 51))
@@ -69,7 +69,7 @@ class Ui_MainWindow(object):
         font.setPointSize(13)
         self.pushButton_login.setFont(font)
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("D:\\UEL\\Namba\\Ky_1_Nam_3\\TDLT\\TalentK24TDLT\\Chapter7\\ui\\../images/ic_login.png"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
+        icon.addPixmap(QtGui.QPixmap("D:\\UEL\\Namba\\Ky_1_Nam_3\\TDLT\\TalentK24TDLT\\Chapter7\\ui\\Login\\../../images/ic_login.png"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
         self.pushButton_login.setIcon(icon)
         self.pushButton_login.setIconSize(QtCore.QSize(24, 24))
         self.pushButton_login.setObjectName("pushButton_login")
@@ -79,7 +79,7 @@ class Ui_MainWindow(object):
         font.setPointSize(13)
         self.pushButton_exit.setFont(font)
         icon1 = QtGui.QIcon()
-        icon1.addPixmap(QtGui.QPixmap("D:\\UEL\\Namba\\Ky_1_Nam_3\\TDLT\\TalentK24TDLT\\Chapter7\\ui\\../images/ic_exit.png"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
+        icon1.addPixmap(QtGui.QPixmap("D:\\UEL\\Namba\\Ky_1_Nam_3\\TDLT\\TalentK24TDLT\\Chapter7\\ui\\Login\\../../images/ic_exit.png"), QtGui.QIcon.Mode.Normal, QtGui.QIcon.State.Off)
         self.pushButton_exit.setIcon(icon1)
         self.pushButton_exit.setIconSize(QtCore.QSize(24, 24))
         self.pushButton_exit.setObjectName("pushButton_exit")
